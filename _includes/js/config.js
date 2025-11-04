@@ -1,5 +1,5 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
+  baseTheme: 'dark', extendWith: {
     primary: themeStyle.colors.primary,
     fontSize: '16px'
   }
@@ -65,7 +65,7 @@ var siteConfig = {
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
-      country: "GB",
+      country: "GR",
 	  active: true
     }
   },
@@ -74,7 +74,7 @@ var siteConfig = {
     excludedFilters: ['countrySingleGrSciColl'],
     rootFilter: {
       displayOnNHCPortal: true,
-      country: "GB",
+      country: "GR",
       active: true
     },
     mapSettings: {

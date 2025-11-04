@@ -1,0 +1,8 @@
+window.siteConfig = window.siteConfig || {};
+window.siteConfig.occurrence = {
+  rootPredicate: {
+    type: "equals",
+    key: "datasetKey",
+    value: "6e73ce4f-628d-4317-8895-3ddb0d154c0b"
+  }
+};

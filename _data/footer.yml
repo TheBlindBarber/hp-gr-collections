@@ -1,41 +1,23 @@
 # Footer content is organized in columns.
 # You can also add a small print license statement at the bottom.
 
-# Columns (the more you add, the narrower they will be)
 columns:
   - name: Project Website
     links:
-    - text: DiSSCo UK
-      href: https://dissco-uk.org
- 
+      - text: DiSSCo Hellas
+        href: https://www.nhmc.uoc.gr/dissco-hellas   # adjust once you know the final domain
+
   - name: Code
-    description: | # Can be Markdown
-      This project is open source - see our [GitHub](https://github.com/gbif/hp-uk-collections) page
-  
+    description: |
+      This project is open source — see our [GitHub](https://github.com/DiSSCoHellas/hp-gr-collections) repository.
+
   - name: Contact
-    description: | # Can be Markdown
-      dissco-uk@nhm.ac.uk
-      * DiSSCo UK,
-      * Natural History Museum
-      * Cromwell Road,
-      * London SW7 5BD
-   # connectIcons: true - use this to add twitter icon
-
-  # EXAMPLE
-  #- name: Group name
-  #  description: |
-  #    An optional description. Can be markdown
-  #  links: # optional as well
-  #  - text: link title
-  #    href: http://example.com
-  #  - text: link title 2
-  #    href: http://example2.com
-  #  connectIcons: true # optional - show social icons (defined in _config.yml)
-
+    description: |
+      info@nhmc.uoc.gr  
+      * DiSSCo Hellas  
+      * Natural History Museum of Crete – University of Crete  
+      * Knossos Avenue, Heraklion 70013, Greece
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
-# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
-# Will be postfixed by "Powered by GBIF"
-# (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+license: >
+  Content on this site is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).

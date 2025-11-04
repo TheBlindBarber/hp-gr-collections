@@ -2,10 +2,15 @@
 
 summary:
   description: |
-    There are an estimated 650 natural science collections in the UK and 94 of these
-    contributed to our 2022 survey to understand the size, diversity, origin an
-    current levels of digitisation. The UK holds more than 137 million specimens
-    recorded from 83 institutions and collected from across the world.
+    DiSSCo Hellas (Distributed System of Scientific Collections – Greece)
+    is the national component of the European DiSSCo infrastructure.
+    It unites and digitises the natural history collections of Greece,
+    connecting data, people, and institutions through open and FAIR principles.
+    
+    Coordinated by the Natural History Museum of Crete – University of Crete,
+    the initiative involves eight Natural History Museums across the country,
+    working together to make millions of specimens digitally accessible
+    for research, education, and society.
   cta:
     - text: Explore data
       isPrimary: true
@@ -14,105 +19,94 @@ summary:
 map:
   background: /assets/images/dissco_map.png
   cta:
-    - text: Download the booklet
-      href: /assets/Harnessing the Power of Natural Science Collections.pdf
+    - text: Download project outline
+      href: /assets/docs/DiSSCo_Hellas_Overview.pdf
       isPrimary: true
   description: |
-    DiSSCo UK seeks to become a one-stop, dynamic, openly available and easy-to-use
-    e-science infrastructure, integrating digital access to UK natural science
-    collections.
-    Through a hub and spoke model of digitisation at national, regional and local levels
-    DiSSCo will:
-      - Empower the UK network of collections through digitisation
-      - Enhance UK biodiversity and heritage information infrastructure
-      - Improve data quality
-      - Deliver relevant data
+    DiSSCo Hellas aims to become a one‑stop, dynamic and openly available
+    e‑science infrastructure integrating digital access to Greek natural history
+    collections.  
+    Through national and regional digitisation efforts DiSSCo Hellas will:
+      - Empower the Greek network of collections through digitisation  
+      - Enhance Greek biodiversity and heritage information infrastructure  
+      - Improve data quality and interoperability  
+      - Deliver relevant, open, and FAIR data  
 
 benefits:
   markdownContent: |
-    # Benefits of UK natural science collections
+    # Benefits of Greek natural science collections
     
     ## Scientific Benefits
-    Natural science collections are a critical resource for scientists advancing
-    knowledge that informs challenging global issues including climate change,
-    biodiversity conservation, resourcing the green economy and our response to
-    pandemics such as COVID-19.
-    
+    Greek Natural History collections are a vital resource for understanding
+    biodiversity, evolution, geology, and ecology in the Eastern Mediterranean.
+    Digitised specimens contribute directly to research on climate change,
+    conservation, sustainable use of natural resources, and bio‑geography.
+
     ## Societal Benefits
-    Natural science collections connect and empower society, inspiring a lifelong love
-    of nature, are the source of educational material for generations and provide
-    communities with data and knowledge, as well as involving them in its creation and
-    interpretation.
-    
+    Collections connect museums with the public, strengthen education and
+    inspire curiosity about the natural world. Shared digital resources make
+    heritage accessible to schools, universities, and citizens across Greece.
+
     ## Economic Benefits
-    Digitisation of natural science digitisation has the potential to deliver a tenfold
-    return on investment, creating benefits in excess of £2 billion over 30 years.
+    Investments in digitisation amplify research capacity, foster innovation,
+    and support green‑economy policies by making biodiversity data usable
+    in decision‑making and sustainable development.
 
 data:
   klass: about-data
-  title: DiSSCo Data
+  title: DiSSCo Hellas Data
   description: |
-    DiSSCo UK will adopt the relatively mature data standards and technologies that have
-    already been developed within the global natural science collections community.
-    All data generated through the network is both open and FAIR (Findable,
-    Interoperable, Accessible and Reproducible).
+    DiSSCo Hellas adopts established international data standards and services
+    from GBIF and the wider DiSSCo EU infrastructure.  
+    All generated data follow the FAIR principles
+    – Findable, Accessible, Interoperable, and Reusable –
+    ensuring long‑term value for science and society.
   background: /assets/images/about/fossil.png
   reverse: true
 
 partners:
   klass: about-partners
-  title: DiSSCo UK Partners
+  title: DiSSCo Hellas Partners
   background: /assets/images/about/shell_puzzle.png
   description: |
-    [Birmingham Museums](https://www.birminghammuseums.org.uk/)  
+    [Natural History Museum of Crete – University of Crete](https://www.nhmc.uoc.gr/)  
 
-    [Bristol Museum & Art Gallery](https://www.bristolmuseums.org.uk/bristol-museum-and-art-gallery/)  
+    [Zoological Museum, National and Kapodistrian University of Athens](https://www.zoolmuseum.uoa.gr/)  
 
-    [British Geological Survey](https://www.bgs.ac.uk/)  
+    [Goulandris Natural History Museum](https://www.gnhm.gr/)  
 
-    [Great North Museum](https://greatnorthmuseum.org.uk/)  
+    [Thessaloniki Science Centre and Technology Museum – NOESIS](https://www.noesis.edu.gr/)  
 
-    [Manchester Museum](https://www.museum.manchester.ac.uk/)  
+    [Aristotle University of Thessaloniki – Museum of Geology and Palaeontology](https://www.geo.auth.gr/)  
 
-    [National Museum Wales](https://museum.wales/)  
+    [University of Patras – Zoological Museum](https://www.biol.upatras.gr/)  
 
-    [National Museums NI](https://www.nmni.com/Home.aspx)  
+    [University of Ioannina – Zoological Museum](https://www.uoi.gr/)  
 
-    [National Museums Scotland](https://www.nms.ac.uk/)  
-
-    [Natural History Museum, London](https://www.nhm.ac.uk/)  
-
-    [Natural Sciences Collections Association](https://www.natsca.org/)  
-
-    [Oxford University Museum of Natural History](https://www.oumnh.ox.ac.uk/)  
-
-    [Royal Botanic Gardens Edinburgh](https://www.rbge.org.uk/)  
-
-    [Royal Botanic Gardens Kew](https://www.kew.org/)  
-
-    [University of Cambridge Museums](https://www.museums.cam.ac.uk/)
+    [Hellenic Centre for Marine Research](https://www.hcmr.gr/)
 
 acknowledgements:
   markdownContent: |
     # Acknowledgements
 
-    We would like to thank the Arts and Humanities Research Council (AHRC) for their
-    support and guidance in the preparation of this report (Grant number AH/W006715/1)
-    and especially thank the 94 UK natural science collections who generously provided
-    their time and data to develop the concept of DiSSCo UK.
+    We gratefully acknowledge the Ministry of Development & Investments (Greece)
+    for supporting DiSSCo Hellas and the European Research Infrastructure
+    DiSSCo EU. The participating museums and research institutions have
+    each contributed expertise, data, and enthusiasm toward building the
+    national digital collections infrastructure.
 
 ahrcLogo:
   klass: about_ahrc_logo
   markdownContent: |
     <div>
-      <img src="/assets/images/about/ahrc_logo.png">
+      <img src="/assets/images/about/nhmc_logo.png" alt="NHMC – University of Crete logo">
     </div>
 
 resources:
   klass: about_resources
   height: 20vh
   background: /assets/images/about/clay_banks.png
-  title: Understand more about DiSSCo resources
+  title: Learn more about DiSSCo Hellas resources
   cta:
     - text: Resources
       href: /resources
